@@ -419,6 +419,10 @@ h6 {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 
+#about .animated {
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
 @media (max-width: 991px) {
   #hero {
     height: 100vh;
