@@ -112,6 +112,7 @@ h6 {
 */
 .navbar {
   padding: 0;
+  border-bottom: 0px;
 }
 
 .navbar ul {
@@ -419,9 +420,6 @@ h6 {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 
-#about .animated {
-  animation: up-down 2s ease-in-out infinite alternate-reverse both;
-}
 
 @media (max-width: 991px) {
   #hero {
@@ -1367,8 +1365,24 @@ section {
   }
 }
 
-.svg-palacio {
-  background-color: #06b862;
-  position:static;
-  bottom: 0;      
+.logo-palaciofooter {
+  
+  width: 100%;
+  
+  position: relative;
+  bottom: 0;
+  left: 0;
+     
+}
+
+.logos {
+  width: 100%;
+  position: relative;
+}
+
+.logo-rocket {
+  width: 350px;
+  position: relative;
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+
 }
