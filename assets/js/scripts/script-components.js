@@ -14,4 +14,5 @@ document.addEventListener("DOMContentLoaded", function() {
     loadComponent('components/main.html', 'main-placeholder');
     loadComponent('components/footer.html', 'footer-placeholder');
     loadComponent('components/scripts.html', 'scripts-placeholder');
+    loadComponent('components/svg-placiologo.html', 'svg-placiologo-placeholder');
 });

@@ -1366,3 +1366,9 @@ section {
     text-align-last: center;
   }
 }
+
+.svg-palacio {
+  background-color: #06b862;
+  position:static;
+  bottom: 0;      
+}
