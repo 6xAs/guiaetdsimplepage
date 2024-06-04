@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Seja bem Vindo ao nosso guia EGD-Setic
 
-Template Name: eNno
-Template URL: https://bootstrapmade.com/enno-free-simple-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+ <!-- ======= Nosso guia ======= -->
