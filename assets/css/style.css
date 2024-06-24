@@ -8,7 +8,7 @@ body {
 }
 
 a {
-  color: #14c871;
+  color: #5da7a5;
   text-decoration: none;
 }
 
@@ -1393,3 +1393,36 @@ section {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 
 }
+
+#footer .box-ouvidoria  {
+  margin-top: 30px;
+}
+
+#footer .box-ouvidoria  a {
+  font-size: 60px;
+  font-style: bold;
+  display: inline-block;
+  background: #eaecef;
+  color: #5f687b;
+  line-height: 1;
+  padding: 18px 0;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  border-radius: 10px;
+  text-align: center;
+  width: 90px;
+  height: 90px;
+  transition: 0.3s;
+}
+
+#footer .boxt-ouvidoria .info {
+
+  font-size: 80px;
+}
+
+#footer .box-ouvidoria  a:hover {
+  background: #0261af;
+  color: #fff;
+  text-decoration: none;
+}
+
