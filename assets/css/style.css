@@ -53,7 +53,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #06b862;
+  background: #5da7a5;
   color: #fff;
 }
 
@@ -91,7 +91,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 50px;
 }
 
 @media (max-width: 991px) {
